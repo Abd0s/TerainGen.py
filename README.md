@@ -7,10 +7,10 @@
 ## Parameters
   The `Container` class has 2 constructor arguments, one for the container size, and one for the size of each cell in the container.
   
-  `container_size`: 
+  `container_size`:\n
     int: The amount of cells in width and height the container should have, because the container can only be a square only one is needed.
     
-  `square_size`:
+  `square_size`:\n
     int: The width of each individuale square inside the container in pixels.
     
 ## Manipulation
